@@ -55,7 +55,7 @@ I thought that, to finish the presentation, it would be interesting to show some
 
 ----------------------------
 
-N.B. The instructions provided for creating a slideshow no longer work.
+N.B. The original instructions provided by udacity for creating a slideshow no longer work.
 The following should be used instead:
 ```
 jupyter nbconvert slidedeck.ipynb --to slides --no-prompt --TemplateExporter.exclude_input=True --ServePostProcessor.port=8001 --post serve
