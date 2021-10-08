@@ -1,10 +1,22 @@
 # Data analysis: Bike rides in San Francisco 
 ## by Renju Mathew  
 &nbsp; 
+
+The following files are included:
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`readme.md` This document.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`201902-fordgobike-tripdata.csv` Raw data.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`exploration.html` A report with my exploratory data analysis in html format.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`exploration.ipynb` The jupyter notebook used to produce the above.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`slidedeck.slides.html` A slide deck presentation with explanatory analysis.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`slidedeck.ipynb` The jupyter notebook used to produce the above.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`slidedeck.html` The jupyter notebook in html format.  
+
+
   
 ## Dataset
 
-The data consisted of the attributes of 183,412 bike rides made in February of 2019 in the San Francisco Bay area. These attributes included the start and end stations, the start and end times, the type of user and the duration of the bike ride. 8531 data points were removed from the analysis because of missing values and incorrect ages. So, 174,881 bike rides were analysed.
+The data consisted of the attributes of 183,412 bike rides made in February of 2019 in the San Francisco Bay area. These attributes included the start and end stations, the start and end times, the type of user, and the duration of the bike ride. 8531 data points were removed from the analysis because of missing values and incorrect ages. So, 174,881 bike rides were analysed.
 
 The dataset was provided by udacity and was sourced from the Ford GoBike System Data website (originally [here](https://www.bikeshare.com/data/), although that website is now offline.)
 
