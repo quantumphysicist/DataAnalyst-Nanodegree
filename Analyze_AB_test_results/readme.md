@@ -1,3 +1,3 @@
-In this report, we analyse a dataset obtained from The Movie Database (TMDB). The dataset contains information about 10,000 movies; this information includes numerical data such as budget, revenue, and user ratings, as well as non-numerical data such as director, cast, and genre.
+# Data Analysis: A/B Test Results
 
-We investigate the most popular directors, production companies, and genres. We will also investigate which properties are associated with movies revenue.
+We analyse the results of an A/B test run by an e-commerce website to help the company understand if they should implement a new webpage, keep the old webpage, or perhaps run the experiment longer to make their decision.
