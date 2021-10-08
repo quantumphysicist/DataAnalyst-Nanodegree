@@ -1,4 +1,4 @@
-# Data Analyst Nanodegree Notebooks
+# Data Analyst Nanodegree Portfolio
 ## Completed projects from the Udacity Data Analyst Nanodegree Program
 
 ### Folder contents:  
