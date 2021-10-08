@@ -8,7 +8,8 @@ Please start by reading act_report.pdf (act_report.html).
 
 **✓ `act_report.pdf`: documentation of analysis and insights into final data**  
 **✓ `wrangle_report.pdf`: documentation for data wrangling steps: gather, assess, and clean**    
-**✓ `wrangle_act.ipynb`: code for gathering, assessing, cleaning, analyzing, and visualizing data**    
+**✓ `wrangle_act.ipynb`: code for gathering, assessing, cleaning, analyzing, and visualizing data** 
+
 ✓ `twitter_archive_enhanced.csv`: file as given    
 ✓ `image_predictions.tsv`: file downloaded programmatically  
 ✓ `tweet_json.txt`: file constructed via API  
