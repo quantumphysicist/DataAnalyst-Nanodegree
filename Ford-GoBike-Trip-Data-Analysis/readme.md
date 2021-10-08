@@ -5,7 +5,7 @@
 The following files are included:
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`readme.md` This document.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`201902-fordgobike-tripdata.csv` Raw data.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`201902-fordgobike-tripdata.zip` Raw data (csv).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`exploration.html` A report with my exploratory data analysis in html format.   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`exploration.ipynb` The jupyter notebook used to produce the above.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`slidedeck.slides.html` A slide deck presentation with explanatory analysis.  
