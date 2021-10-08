@@ -4,9 +4,9 @@ We analysed the record of tweets from the account WeRateDogs® (@dog_rates) to d
 
 Please start by reading act_report.pdf (act_report.html).
 
-**Folder contents**  
-**✓ `wrangle_report.pdf or wrangle_report.html`: documentation for data wrangling steps: gather, assess, and clean**    
+**Folder contents**
 **✓ `act_report.pdf or act_report.html`: documentation of analysis and insights into final data**  
+**✓ `wrangle_report.pdf or wrangle_report.html`: documentation for data wrangling steps: gather, assess, and clean**    
 **✓ `wrangle_act.ipynb`: code for gathering, assessing, cleaning, analyzing, and visualizing data**    
 ✓ `twitter_archive_enhanced.csv`: file as given    
 ✓ `image_predictions.tsv`: file downloaded programmatically  
