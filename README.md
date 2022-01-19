@@ -1,8 +1,8 @@
 # This repository is deprecated
-# Please follow the links below for the newest version of the following projects
-## Completed projects from the Udacity Data Analyst Nanodegree Program
+## Please follow the links below for the newest version of the following projects
 
-### Folder contents:  
+
+### Completed projects from the Udacity Data Analyst Nanodegree Program
 [Analyze_AB_test_results](https://github.com/quantumphysicist/Analysis_of_AB_Test_Results)   
 Analysis of the results of an A/B test run by an e-commerce site.
 
